@@ -1,0 +1,4 @@
+Value 1: character (bf/dad), should be in lowercase
+Value 2:
+
+leave value 1 empty to turn off forceFollow

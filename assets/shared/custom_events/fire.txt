@@ -1,0 +1,3 @@
+Value1: On or Off
+Value2: Tween Duration
+This ONLY works on Retro Stage.

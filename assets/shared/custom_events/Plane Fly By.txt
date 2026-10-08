@@ -1,0 +1,2 @@
+Value 1: How Long the Plane tweens (defaults to 0)
+Value 2: Ball Drop Delay (defaults to 0)

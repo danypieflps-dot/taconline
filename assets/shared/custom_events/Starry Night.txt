@@ -1,0 +1,2 @@
+Value 1: true/false (On/Off)
+Value 2: Chance of Star Spawning (0-100, active in onUpdate, try to keep low.)

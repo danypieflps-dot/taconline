@@ -1,0 +1,2 @@
+value1: amount,speed
+value2: time until ends

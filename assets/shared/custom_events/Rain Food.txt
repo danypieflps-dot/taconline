@@ -1,0 +1,2 @@
+Value 1: True/False (on/Off)
+Value 2: Chance of Food Falling (0-100, active in onUpdate, try to keep low.)
