@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-53, -35],
+			"anim": "danceLeft",
+			"fps": 15,
+			"name": "DanceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-103, -17],
+			"anim": "danceRight",
+			"fps": 15,
+			"name": "DanceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-60, -22],
+			"anim": "cheer",
+			"fps": 15,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [54, -33],
+			"anim": "sad",
+			"fps": 10,
+			"name": "miss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Ginevra",
+	"position": [-80, -170],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 67],
+	"camera_position": [-90, 0],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

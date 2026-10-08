@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [-670, -112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-710, -111],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-734, -156],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-734, -41],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-746, -124],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [-619, -94],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-637, -189],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-753, -89],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-724, 0],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss4",
+			"indices": []
+		},
+		{
+			"offsets": [-699, -113],
+			"loop": false,
+			"fps": 24,
+			"anim": "fucked",
+			"indices": [],
+			"name": "lookin"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/retro barry",
+	"position": [-650, 310],
+	"healthicon": "ubf",
+	"flip_x": true,
+	"healthbar_colors": [0, 157, 255],
+	"camera_position": [-590, 100],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

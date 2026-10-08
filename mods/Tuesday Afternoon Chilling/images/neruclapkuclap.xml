@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neruclapkuclap.png">
+<SubTexture name="clap0000" x="0" y="0" width="1426" height="2704" frameX="-1500" frameY="-296" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="prep0000" x="1426" y="0" width="3281" height="2352" frameX="-443" frameY="-648" frameWidth="4000" frameHeight="3000" />
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+	"storyName": "there ain't no fucking way",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "martha",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"feline frenzy",
+			"martha",
+			[
+				255,
+				245,
+				0
+			]
+		],
+		[
+			"midnight blues",
+			"martha",
+			[
+				255,
+				245,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Sm21",
+	"hiddenUntilUnlocked": false
+}

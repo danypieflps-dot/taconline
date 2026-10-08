@@ -1,0 +1,10 @@
+The flash flashes only the color white
+
+value 1:
+The alpha value of the flash, for example:
+0 = a flash will not even happen
+0.5 = a flash will happen but slightly visible
+1 = a full white color flash
+
+value 2: the duration it will take for the flash to fully disappear
+(either 1 or 0.8 are recommende, you can make it longer if youd like)

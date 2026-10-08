@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sm21.png">
+<SubTexture name="sm21 down0000" x="0" y="1240" width="374" height="368" frameX="0" frameY="0" frameWidth="374" frameHeight="368" />
+<SubTexture name="sm21 down0001" x="731" y="1240" width="397" height="356" frameX="0" frameY="0" frameWidth="397" frameHeight="356" />
+<SubTexture name="sm21 down0002" x="374" y="1240" width="357" height="360" frameX="0" frameY="0" frameWidth="357" frameHeight="360" />
+<SubTexture name="sm21 idle0000" x="1123" y="0" width="386" height="401" frameX="-17" frameY="0" frameWidth="421" frameHeight="401" />
+<SubTexture name="sm21 idle0001" x="1123" y="401" width="385" height="397" frameX="0" frameY="0" frameWidth="385" frameHeight="397" />
+<SubTexture name="sm21 idle0002" x="809" y="839" width="384" height="396" frameX="0" frameY="0" frameWidth="384" frameHeight="396" />
+<SubTexture name="sm21 idle0003" x="421" y="839" width="388" height="398" frameX="0" frameY="0" frameWidth="388" frameHeight="398" />
+<SubTexture name="sm21 left0000" x="403" y="428" width="399" height="408" frameX="0" frameY="0" frameWidth="399" frameHeight="408" />
+<SubTexture name="sm21 left0001" x="0" y="428" width="403" height="411" frameX="0" frameY="0" frameWidth="403" frameHeight="411" />
+<SubTexture name="sm21 left0002" x="0" y="839" width="421" height="401" frameX="0" frameY="0" frameWidth="421" frameHeight="401" />
+<SubTexture name="sm21 right0000" x="1509" y="395" width="416" height="394" frameX="0" frameY="0" frameWidth="416" frameHeight="394" />
+<SubTexture name="sm21 right0001" x="1509" y="0" width="427" height="395" frameX="0" frameY="0" frameWidth="427" frameHeight="395" />
+<SubTexture name="sm21 right0002" x="1509" y="789" width="418" height="394" frameX="0" frameY="0" frameWidth="418" frameHeight="394" />
+<SubTexture name="sm21 up0000" x="751" y="0" width="372" height="420" frameX="0" frameY="0" frameWidth="372" frameHeight="420" />
+<SubTexture name="sm21 up0001" x="372" y="0" width="379" height="421" frameX="0" frameY="0" frameWidth="379" frameHeight="421" />
+<SubTexture name="sm21 up0002" x="0" y="0" width="372" height="428" frameX="0" frameY="0" frameWidth="372" frameHeight="428" />
+</TextureAtlas>

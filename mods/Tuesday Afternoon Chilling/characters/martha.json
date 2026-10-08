@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-398, -288],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-394, -289],
+			"anim": "screm",
+			"fps": 1,
+			"name": "screm",
+			"indices": []
+		},
+		{
+			"offsets": [-394, -289],
+			"loop": false,
+			"fps": 20,
+			"anim": "scremtransition",
+			"indices": [],
+			"name": "screamtrans"
+		},
+		{
+			"loop": false,
+			"offsets": [-406, -281],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-396, -300],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-357, -300],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-377, -279],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/marthaV35",
+	"position": [-850, -220],
+	"healthicon": "martha",
+	"flip_x": false,
+	"healthbar_colors": [254, 241, 0],
+	"camera_position": [400, 170],
+	"sing_duration": 6.1,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

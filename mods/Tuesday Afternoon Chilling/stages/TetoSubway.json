@@ -1,0 +1,311 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bftac",
+		"gf": "gftac",
+		"dad": "matty"
+	},
+	"stageUI": "",
+	"boyfriend": [
+		1725,
+		507
+	],
+	"girlfriend": [
+		930,
+		530
+	],
+	"objects": [
+		{
+			"x": -1443,
+			"y": -2353,
+			"scale": [
+				2,
+				2
+			],
+			"image": "subway/backwall",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "backwall",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4564,
+			"y": -353,
+			"scale": [
+				1.65,
+				1
+			],
+			"image": "subway/backwall",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "backwalltheskueaquel",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1813,
+			"y": 2400,
+			"scale": [
+				2.6,
+				2.1
+			],
+			"image": "subway/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor2_copy1",
+			"antialiasing": true,
+			"flipY": true,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4548,
+			"y": 845,
+			"scale": [
+				0,
+				0
+			],
+			"image": "subway/floor",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1061,
+			"y": 586,
+			"scale": [
+				2.05,
+				1.75
+			],
+			"image": "subway/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -320,
+			"y": -60,
+			"scale": [
+				1.55,
+				1.5
+			],
+			"image": "subway/wall",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "graffitiyes",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4272,
+			"y": -48,
+			"scale": [
+				1.55,
+				1.5
+			],
+			"image": "subway/nograffiti",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "graffitino",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1971,
+			"y": 738,
+			"scale": [
+				0,
+				0
+			],
+			"image": "subway/shadow",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 300,
+			"name": "bfshadw",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.4,
+			"type": "sprite"
+		},
+		{
+			"x": 1274,
+			"y": 836,
+			"scale": [
+				0,
+				0
+			],
+			"image": "subway/shadow",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 300,
+			"name": "bfshadw_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.6,
+			"type": "sprite"
+		},
+		{
+			"x": 319,
+			"y": 1027,
+			"scale": [
+				1.6,
+				1.7
+			],
+			"image": "subway/shadow",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 320,
+			"name": "bfshadw_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.7,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": 1974,
+			"y": -144,
+			"scale": [
+				1.8,
+				1.8
+			],
+			"image": "subway/sign",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "penis",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 35,
+			"y": -40,
+			"scale": [
+				1.45,
+				1.45
+			],
+			"image": "subway/lamp",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lamp",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.35,
+	"camera_speed": 1,
+	"directory": "TetoSubway",
+	"opponent": [
+		550,
+		500
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": false
+}

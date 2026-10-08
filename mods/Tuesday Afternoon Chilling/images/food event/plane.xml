@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plane.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="open" x="0" y="0" width="1649" height="473" rotated="false"/>
+	<SubTexture name="closed" x="0" y="478" width="1649" height="473" rotated="false"/>
+</TextureAtlas>

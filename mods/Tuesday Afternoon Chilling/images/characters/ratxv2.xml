@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ratxv2.png">
+<SubTexture name="dialogue10000" x="2181" y="597" width="413" height="582" frameX="-157" frameY="-180" frameWidth="752" frameHeight="767" />
+<SubTexture name="down0000" x="2007" y="1696" width="434" height="340" frameX="-97" frameY="-417" frameWidth="752" frameHeight="767" />
+<SubTexture name="down0001" x="2181" y="1179" width="436" height="341" frameX="-94" frameY="-416" frameWidth="752" frameHeight="767" />
+<SubTexture name="fuckoff0000" x="0" y="979" width="476" height="717" frameX="-127" frameY="-155" frameWidth="678" frameHeight="887" />
+<SubTexture name="fuckoff0001" x="476" y="979" width="474" height="713" frameX="-122" frameY="-160" frameWidth="678" frameHeight="887" />
+<SubTexture name="dialogue20000" x="0" y="0" width="696" height="979" frameX="-84" frameY="-157" frameWidth="995" frameHeight="1149" />
+<SubTexture name="dialogue30000" x="696" y="0" width="976" height="970" frameX="0" frameY="-172" frameWidth="995" frameHeight="1149" />
+<SubTexture name="idle0000" x="438" y="1696" width="439" height="560" frameX="-159" frameY="-202" frameWidth="752" frameHeight="767" />
+<SubTexture name="idle0001" x="0" y="1696" width="438" height="562" frameX="-160" frameY="-201" frameWidth="752" frameHeight="767" />
+<SubTexture name="left0000" x="1451" y="1696" width="556" height="546" frameX="-10" frameY="-210" frameWidth="752" frameHeight="767" />
+<SubTexture name="left0001" x="877" y="1696" width="574" height="553" frameX="-2" frameY="-208" frameWidth="752" frameHeight="767" />
+<SubTexture name="right0000" x="1461" y="979" width="627" height="606" frameX="-117" frameY="-155" frameWidth="829" frameHeight="767" />
+<SubTexture name="right0001" x="2181" y="0" width="625" height="597" frameX="-204" frameY="-168" frameWidth="829" frameHeight="767" />
+<SubTexture name="up0000" x="1672" y="0" width="509" height="720" frameX="-66" frameY="-35" frameWidth="752" frameHeight="767" />
+<SubTexture name="up0001" x="950" y="979" width="511" height="697" frameX="-63" frameY="-63" frameWidth="752" frameHeight="767" />
+</TextureAtlas>

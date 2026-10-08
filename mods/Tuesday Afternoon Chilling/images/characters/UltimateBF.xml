@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="UltimateBF.png">
+<SubTexture name="idle0000" x="2110" y="974" width="424" height="474" frameX="-406" frameY="-126" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="2110" y="488" width="437" height="486" frameX="-405" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="434" y="1579" width="437" height="489" frameX="-406" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="440" y="1083" width="438" height="495" frameX="-405" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0004" x="0" y="1083" width="440" height="496" frameX="-403" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="2550" y="1458" width="415" height="485" frameX="-377" frameY="-115" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="0" y="1579" width="434" height="490" frameX="-377" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0002" x="0" y="1579" width="434" height="490" frameX="-377" frameY="-110" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="408" y="0" width="419" height="531" frameX="-417" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="441" y="562" width="426" height="519" frameX="-411" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0002" x="1253" y="0" width="428" height="513" frameX="-410" frameY="-89" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="1346" y="2069" width="443" height="393" frameX="-389" frameY="-206" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="900" y="2069" width="446" height="400" frameX="-391" frameY="-200" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0002" x="454" y="2069" width="446" height="402" frameX="-392" frameY="-198" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="1253" y="513" width="421" height="498" frameX="-463" frameY="-102" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="878" y="1083" width="425" height="495" frameX="-454" frameY="-105" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0002" x="1681" y="0" width="429" height="492" frameX="-449" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss10000" x="871" y="1579" width="497" height="488" frameX="-326" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss10001" x="1368" y="1579" width="457" height="488" frameX="-364" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss10002" x="2110" y="0" width="440" height="488" frameX="-380" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss20000" x="0" y="0" width="408" height="562" frameX="-417" frameY="-44" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss20001" x="827" y="0" width="426" height="530" frameX="-407" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss20002" x="0" y="562" width="441" height="521" frameX="-399" frameY="-82" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss30000" x="2264" y="2069" width="524" height="357" frameX="-353" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss30001" x="1789" y="2069" width="475" height="384" frameX="-379" frameY="-213" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss30002" x="0" y="2069" width="454" height="406" frameX="-390" frameY="-193" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss40000" x="2550" y="0" width="495" height="486" frameX="-449" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss40001" x="2550" y="486" width="476" height="486" frameX="-450" frameY="-111" frameWidth="1280" frameHeight="720" />
+<SubTexture name="miss40002" x="2550" y="972" width="453" height="486" frameX="-451" frameY="-111" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="retromarioCHARGE.png">
+<SubTexture name="idle0000" x="748" y="0" width="730" height="705" frameX="-28" frameY="-46" frameWidth="817" frameHeight="766" />
+<SubTexture name="idle0001" x="0" y="0" width="748" height="741" frameX="-17" frameY="-10" frameWidth="817" frameHeight="766" />
+</TextureAtlas>

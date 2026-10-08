@@ -1,0 +1,2 @@
+Value 1: true or false (On/Off)
+Value 2: Tween time (in seconds)

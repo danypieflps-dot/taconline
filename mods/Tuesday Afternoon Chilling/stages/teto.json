@@ -1,0 +1,497 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bftac",
+		"dad": "teto",
+		"gf": "gftac"
+	},
+	"boyfriend": [
+		1632,
+		162
+	],
+	"stageUI": "",
+	"girlfriend": [
+		700,
+		143
+	],
+	"defaultZoom": 0.6,
+	"objects": [
+		{
+			"x": -1706,
+			"y": -1622,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/lightback",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "backlight_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -11736,
+			"y": -12737,
+			"scale": [
+				7,
+				7
+			],
+			"image": "teto/lightback",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "backlight_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1850,
+			"y": -1421,
+			"scale": [
+				2,
+				2
+			],
+			"image": "teto/lightback",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "backlight_copy1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1183,
+			"y": -1396,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/lightback",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 760,
+			"y": -1668,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/weird back slates",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2130,
+			"y": -1668,
+			"scale": [
+				2,
+				2
+			],
+			"image": "teto/weird back slates",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 878,
+			"y": 231,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/fontstairs",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stairsfront_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 544,
+			"y": 674,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "floor_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2881,
+			"y": 513,
+			"scale": [
+				2,
+				2
+			],
+			"image": "teto/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 170,
+			"name": "floor_copy1_copy1",
+			"antialiasing": false,
+			"flipY": true,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1633,
+			"y": 537,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 320,
+			"y": -622,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/dancedisplay",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tetoANIMATION",
+			"firstAnimation": null,
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"animations": null,
+			"type": "animatedSprite"
+		},
+		{
+			"x": 295,
+			"y": -613,
+			"scale": [
+				2.6,
+				2.4
+			],
+			"image": "teto/dancedisplay",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tetoANIMATION_copy1",
+			"firstAnimation": null,
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": null,
+			"type": "animatedSprite"
+		},
+		{
+			"x": -794,
+			"y": 233,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/fontstairs",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stairsfront_copy1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -3517,
+			"y": 147,
+			"scale": [
+				1.7,
+				2.3
+			],
+			"image": "teto/fontstairs",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stairsfront_copy1_copy1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1682,
+			"y": 62,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/stairs",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stair_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1016,
+			"y": 55,
+			"scale": [
+				2,
+				2
+			],
+			"image": "teto/stairs",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stair_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -20,
+			"y": -1203,
+			"scale": [
+				1.7,
+				1.7
+			],
+			"image": "teto/screen",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "screen",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": 1485,
+			"y": -484,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/light",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lights_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2332,
+			"y": -485,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/light",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lights_copy1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -369,
+			"y": -962,
+			"scale": [
+				0,
+				0
+			],
+			"image": "teto/light",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "lights_copy1_copy1_copy1_copy1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-376,
+		179
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

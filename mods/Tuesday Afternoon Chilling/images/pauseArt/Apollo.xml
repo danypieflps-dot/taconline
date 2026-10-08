@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Apollo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="Apollo0000" x="0" y="0" width="803" height="443" rotated="false"/>
+	<SubTexture name="Apollo0001" x="0" y="445" width="803" height="443" rotated="false"/>
+</TextureAtlas>

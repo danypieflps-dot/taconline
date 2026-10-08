@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [-2, 0],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceleft"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 10,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceright"
+		},
+		{
+			"offsets": [-5, 2],
+			"loop": false,
+			"fps": 10,
+			"anim": "sad",
+			"indices": [],
+			"name": "sob"
+		},
+		{
+			"offsets": [-2, 205],
+			"indices": [],
+			"fps": 15,
+			"anim": "cheer",
+			"loop": false,
+			"name": "yay"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gftac",
+	"position": [200, -100],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 67],
+	"camera_position": [-90, 0],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

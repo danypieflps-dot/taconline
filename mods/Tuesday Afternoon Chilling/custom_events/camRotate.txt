@@ -1,0 +1,8 @@
+Rotate the HUD
+
+value 1:the angle it rotates to, example:
+10 = right
+-10 = left
+make it more than 10 and it will move so strong it will be barely possible to hit notes
+
+value 2: the duration it takes to go back to normal

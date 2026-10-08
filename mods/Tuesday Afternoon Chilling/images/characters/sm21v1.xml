@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sm21v1.png">
+<SubTexture name="down0000" x="1938" y="0" width="375" height="358" frameX="0" frameY="-38" frameWidth="378" frameHeight="397" />
+<SubTexture name="down0001" x="1222" y="1288" width="376" height="363" frameX="-2" frameY="-38" frameWidth="380" frameHeight="401" />
+<SubTexture name="dmiss0000" x="1554" y="810" width="380" height="394" frameX="-1" frameY="0" frameWidth="383" frameHeight="394" />
+<SubTexture name="fuck0000" x="733" y="446" width="409" height="414" frameX="-5" frameY="-2" frameWidth="418" frameHeight="418" />
+<SubTexture name="idle0000" x="815" y="1288" width="407" height="393" frameX="0" frameY="-16" frameWidth="407" frameHeight="410" />
+<SubTexture name="idle0001" x="406" y="1288" width="409" height="395" frameX="0" frameY="-13" frameWidth="409" frameHeight="408" />
+<SubTexture name="idle0002" x="0" y="1288" width="406" height="400" frameX="-1" frameY="-1" frameWidth="407" frameHeight="401" />
+<SubTexture name="idle0003" x="0" y="876" width="411" height="412" frameX="0" frameY="-15" frameWidth="411" frameHeight="427" />
+<SubTexture name="idle0004" x="1145" y="0" width="409" height="413" frameX="-1" frameY="-14" frameWidth="410" frameHeight="427" />
+<SubTexture name="left0000" x="411" y="876" width="410" height="407" frameX="0" frameY="-1" frameWidth="410" frameHeight="409" />
+<SubTexture name="left0001" x="1145" y="413" width="409" height="409" frameX="-1" frameY="0" frameWidth="410" frameHeight="410" />
+<SubTexture name="lmiss0000" x="749" y="0" width="396" height="433" frameX="0" frameY="-2" frameWidth="397" frameHeight="435" />
+<SubTexture name="right0000" x="821" y="876" width="383" height="406" frameX="0" frameY="-1" frameWidth="388" frameHeight="407" />
+<SubTexture name="right0001" x="1554" y="406" width="372" height="404" frameX="0" frameY="-2" frameWidth="379" frameHeight="407" />
+<SubTexture name="right0002" x="1554" y="0" width="384" height="406" frameX="0" frameY="0" frameWidth="384" frameHeight="406" />
+<SubTexture name="rmiss0000" x="0" y="446" width="372" height="430" frameX="0" frameY="-2" frameWidth="372" frameHeight="432" />
+<SubTexture name="up0000" x="0" y="0" width="371" height="446" frameX="-1" frameY="0" frameWidth="373" frameHeight="446" />
+<SubTexture name="up0001" x="371" y="0" width="378" height="442" frameX="0" frameY="-1" frameWidth="380" frameHeight="443" />
+<SubTexture name="umiss0000" x="372" y="446" width="361" height="427" frameX="-1" frameY="-1" frameWidth="363" frameHeight="428" />
+</TextureAtlas>

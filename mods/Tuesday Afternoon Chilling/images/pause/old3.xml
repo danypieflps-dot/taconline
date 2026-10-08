@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="old3.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- MC07 is awesome and cool. -->
+	<SubTexture name="old30000" x="0" y="0" width="328" height="70" rotated="false"/>
+	<SubTexture name="old30001" x="0" y="0" width="328" height="70" rotated="false"/>
+	<SubTexture name="old30002" x="0" y="72" width="327" height="70" rotated="false" frameX="0" frameY="0" frameWidth="328" frameHeight="70"/>
+	<SubTexture name="old30003" x="0" y="72" width="327" height="70" rotated="false" frameX="0" frameY="0" frameWidth="328" frameHeight="70"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gftac.png">
+<SubTexture name="sob0000" x="710" y="650" width="347" height="625" frameX="-32" frameY="-21" frameWidth="390" frameHeight="655" />
+<SubTexture name="sob0001" x="1353" y="0" width="347" height="625" frameX="-32" frameY="-21" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0000" x="358" y="1278" width="350" height="620" frameX="-30" frameY="-26" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0001" x="1058" y="1278" width="360" height="616" frameX="-20" frameY="-30" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0002" x="0" y="1278" width="358" height="621" frameX="-22" frameY="-25" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0003" x="1002" y="0" width="351" height="628" frameX="-29" frameY="-18" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0004" x="0" y="650" width="357" height="628" frameX="-23" frameY="-18" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceleft0005" x="357" y="650" width="353" height="627" frameX="-27" frameY="-19" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0000" x="708" y="1278" width="350" height="620" frameX="-30" frameY="-26" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0001" x="2038" y="0" width="328" height="602" frameX="-52" frameY="-44" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0002" x="1418" y="1278" width="331" height="605" frameX="-49" frameY="-40" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0003" x="1700" y="623" width="330" height="618" frameX="-50" frameY="-28" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0004" x="1700" y="0" width="338" height="623" frameX="-42" frameY="-23" frameWidth="390" frameHeight="655" />
+<SubTexture name="danceright0005" x="658" y="0" width="344" height="629" frameX="-36" frameY="-17" frameWidth="390" frameHeight="655" />
+<SubTexture name="yay0000" x="1353" y="625" width="347" height="625" frameX="-32" frameY="-155" frameWidth="390" frameHeight="789" />
+<SubTexture name="yay0001" x="0" y="0" width="324" height="650" frameX="-55" frameY="-130" frameWidth="390" frameHeight="789" />
+<SubTexture name="yay0002" x="324" y="0" width="334" height="637" frameX="-45" frameY="-143" frameWidth="390" frameHeight="789" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dancedisplay.png">
+<SubTexture name="teto0000" x="0" y="0" width="498" height="374" frameX="0" frameY="0" frameWidth="498" frameHeight="374" />
+<SubTexture name="teto0001" x="498" y="0" width="498" height="374" frameX="0" frameY="0" frameWidth="498" frameHeight="374" />
+<SubTexture name="teto0002" x="0" y="374" width="498" height="374" frameX="0" frameY="0" frameWidth="498" frameHeight="374" />
+<SubTexture name="teto0003" x="498" y="374" width="498" height="374" frameX="0" frameY="0" frameWidth="498" frameHeight="374" />
+<SubTexture name="teto0004" x="996" y="0" width="498" height="374" frameX="0" frameY="0" frameWidth="498" frameHeight="374" />
+</TextureAtlas>

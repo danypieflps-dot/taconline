@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [1712, 547],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-bruh",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [1684, 508],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSLEFT"
+		},
+		{
+			"offsets": [1587, 549],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSRIGHT"
+		},
+		{
+			"offsets": [1629, 572],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSUP"
+		},
+		{
+			"offsets": [1646, 506],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSDOWN"
+		},
+		{
+			"offsets": [1712, 547],
+			"loop": false,
+			"fps": 24,
+			"anim": "yo",
+			"indices": [],
+			"name": "HEYassets"
+		},
+		{
+			"loop": false,
+			"offsets": [1711, 547],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "DOWNsing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1713, 546],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "LEFTsing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1712, 547],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "UPsing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1712, 547],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "RIGHTsing",
+			"indices": []
+		},
+		{
+			"offsets": [1712, 547],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "bf",
+	"no_antialiasing": false,
+	"image": "characters/BFtac",
+	"position": [-30, 0],
+	"healthicon": "ubf",
+	"flip_x": true,
+	"healthbar_colors": [0, 157, 255],
+	"camera_position": [1180, -380],
+	"sing_duration": 5.8,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}
